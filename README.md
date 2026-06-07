@@ -106,6 +106,13 @@ Simple timing helpers for printing and saving stage runtime.
 
 ## Install
 
+Clone the `pickleball-yolo` branch and enter the project folder:
+
+```bash
+git clone -b pickleball-yolo https://github.com/kwanyinsan/sports-auto-framing.git
+cd sports-auto-framing
+```
+
 Create a conda environment:
 
 ```bash
